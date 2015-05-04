@@ -6,11 +6,12 @@
 <pre><code>
 Em 2 de julho, uma nave-mãe alienígena entrou em órbita da Terra e implantado várias dezenas nave espacial em forma de pires "destruidor", a cada 15 milhas (24 km) de largura. 
 
-Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Hornets , participou de um assalto em um destroyer perto da cidade de Los Angeles.
+Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Hornets , participou de uma investida ao destruidor perto da cidade de Los Angeles.
 </code></pre>
 ####Cabeçalhos
 <p>Você pode criar um cabeçalho adicionando um ou mais <code>#</code> símbolos antes do seu texto de cabeçalho.</P>
  Número de <code>#</code> que você usa vão determinar o tamanho do seu cabeçalho.</p>
-<pre><code># Um cabeçalho maior (uma Tag <h1>) </code></pre>
-
-
+<p> "# O maior título (uma tag <code>&lt;/h1&gt;</code>) 
+## A segunda maior título  (uma tag <code>&lt;/h2&gt;</code>)
+... 
+###### O 6º maior título (uma tag <code>&lt;/h6&gt;</code> ) "</p>
