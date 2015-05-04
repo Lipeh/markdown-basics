@@ -9,7 +9,8 @@ Em 2 de julho, uma nave-mãe alienígena entrou em órbita da Terra e implantado
 Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Hornets , participou de um assalto em um destroyer perto da cidade de Los Angeles.
 </code></pre>
 ####Cabeçalhos
-<p>Você pode criar um cabeçalho adicionando um ou mais <code>#</code> símbolos antes do seu texto de cabeçalho. O Número de <code>#</code> que você usa vão determinar o tamanho do seu cabeçalho.</p>
-<pre># Um cabeçalho maior
+<p>Você pode criar um cabeçalho adicionando um ou mais <code>#</code> símbolos antes do seu texto de cabeçalho.</P>
+ Número de <code>#</code> que você usa vão determinar o tamanho do seu cabeçalho.</p>
+<pre><code># Um cabeçalho maior (uma Tag <h1>) </code></pre>
 
 
