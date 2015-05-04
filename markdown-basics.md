@@ -54,17 +54,17 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 3. O Item 3</code></pre>
 ###A formatação do código
 ####Formatos em linha
- Use backticks (`) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves, sem nenhuma formatação especial.
- Aqui está uma ideia: por que não vamos tomar `SuperiorProject`e transformá-lo em ` ** ** projeto razoável`.
- Várias linhas
- Você pode usar acentos graves triplos (```) para formatar o texto com o seu próprio bloco distinto.
+<p>Use apóstrofos (<code>`</code>) para formatar o texto em um formato especial em um espaço único. Tudo dentro dos apóstrofos, sem nenhuma formatação especial.</p>
+ <pre>Aqui está uma ideia: por que não vamos tomar \`ProjetoSuperior\` e transformá-lo em \`projeto ** razoável **\`.</pre>
+ ###Linhas Múltiplas
+ <p>Você pode usar apóstrofos triplos (<code>\`\`\`</code>) para formatar o texto com o seu próprio bloco distinto.</p>
  Confira este programa que eu  escrevi:
- `` `
+ <pre><code> \`\`\`
  x = 0
  x = 2+2
  o que é x
- `` `
- Links
- Você pode criar uma ligação com uma linha por envolvimento de links texto entre colchetes ( [] ), em seguida, envolver uma ligação entre parênteses ( () ).
- Por exemplo, para criar um hiperlink para www.github.com, com o link que diz, Visite Github !, você escreveria isso em Markdown: [Visite Github !]  (www.github.com) .
+ \`\`\` </code></pre>
+ ###Links
+<p>Você pode criar uma ligação com uma linha por envolvimento de links texto entre colchetes ( <code>[]</code> ), em seguida, envolver uma ligação entre parênteses ( <code>()</code> ).</p>
+<p>Por exemplo, para criar um hiperlink para www.github.com, com o link que diz, Visite Github !, você escreveria isso em Markdown: <pre> /[[Visite Github!]\]  ([www.github.com])</pre>.</p>
 
