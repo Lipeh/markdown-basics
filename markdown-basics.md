@@ -18,8 +18,8 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 #### Bloco de Citação
 <p> Você pode criar uma <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">Bloco de Citação</a> com um <code>></code>.
 <pre>Nas palavras de Abraham Lincoln:
-<code>></code> Pardon My French</pre>
-####Texto Styling
+<code>></code> Pardon My French</pre></p>
+###Texto Styling
 <p>Você pode fazer o texto <strong><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong">em negrito</a></strong> ou <em>itálico</em>.</p>
 <pre> 
 *Este texto pode ser itálico* 
