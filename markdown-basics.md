@@ -1,3 +1,4 @@
+<html>
 ## Markdown Basics 
 <p><a href="http://daringfireball.net/projects/markdown/">Markdown </a> permite-lhe escrever usando um formato de texto simples, fácil para ler e escrever, do qual então se converte em HTML válido para visualização no GITHUB.</p>
 ### Escrita Básica 
@@ -70,6 +71,5 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 ###Veja Também
 <ul><li><a href="https://help.github.com/articles/github-flavored-markdown/">GitHub Flavored Markdown</a></li>
 <li><a href="https://help.github.com/articles/writing-on-github/">Escrevendo no GitHub</a>
-<li><a href="http://guides.github.com/features/mastering-markdown/">Dominando Markdown</a></li>
-</ul>
-
+<li><a href="http://guides.github.com/features/mastering-markdown/">Dominando Markdown</a></li></ul>
+</html>
