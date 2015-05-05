@@ -56,7 +56,7 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 ####Formatos em linha
 <p>Use apóstrofos (<code>`</code>) para formatar o texto em um formato especial em um espaço único. Tudo dentro dos apóstrofos, sem nenhuma formatação especial.</p>
  <pre>Aqui está uma ideia: por que não vamos tomar \`ProjetoSuperior\` e transformá-lo em \`projeto ** razoável **\`.</pre>
- ##Linhas Múltiplas
+###Linhas Múltiplas
  <p>Você pode usar apóstrofos triplos (<code>\`\`\`</code>) para formatar o texto com o seu próprio bloco distinto.</p>
  Confira este programa que eu  escrevi:
  <pre><code> \`\`\`
