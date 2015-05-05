@@ -56,7 +56,7 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 ####Formatos em linha
 <p>Use apóstrofos (<code>`</code>) para formatar o texto em um formato especial em um espaço único. Tudo dentro dos apóstrofos, sem nenhuma formatação especial.</p>
  <pre>Aqui está uma ideia: por que não vamos tomar \`ProjetoSuperior\` e transformá-lo em \`projeto ** razoável **\`.</pre>
- ###Linhas Múltiplas
+ ##Linhas Múltiplas
  <p>Você pode usar apóstrofos triplos (<code>\`\`\`</code>) para formatar o texto com o seu próprio bloco distinto.</p>
  Confira este programa que eu  escrevi:
  <pre><code> \`\`\`
@@ -64,7 +64,7 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
  x = 2+2
  o que é x
  \`\`\` </code></pre>
- ###Links
+###Links
 <p>Você pode criar uma ligação com uma linha por envolvimento de links texto entre colchetes ( <code>[ ]</code> ), em seguida, envolver uma ligação entre parênteses ( <code>( )</code> ).</p>
 <p>Por exemplo, para criar um hiperlink para www.github.com, com o link que diz, Visite Github !, você escreveria isso em Markdown: <code>[Visit GitHub!](www.github.com)</code>.</p>
 ###Veja Também
